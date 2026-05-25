@@ -1,18 +1,11 @@
 # Authors
+#
+# This file defines author profiles that can be attached to blog posts via the
+# `author:` field in the post's front matter. The key (e.g. "Pascal Barro")
+# is what you reference in the post's front matter.
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Pascal Barro:
+  name        : "Pascal Barro"
+  bio         : "PhD candidate in Natural Product Chemistry at LABIOCA, Université Joseph Ki-Zerbo."
+  avatar      : "profile.png"
+  orcid       : "https://orcid.org/0009-0008-6275-1519"
